@@ -25,7 +25,7 @@ justify-content: center;
 align-items: center;
 }
 
-#card { width: 30vw; border-radius: 30px; display: flex; flex-direction: column; justify-content: center; align-items: center; height: auto; padding: 2rem; background-color: var(--dark--grayish--blue); -webkit-border-radius: 30px; -moz-border-radius: 30px; -ms-border-radius: 30px; -o-border-radius: 30px;
+#card { width: 20vw; border-radius: 30px; display: flex; flex-direction: column; justify-content: center; align-items: center; height: auto; padding: 2rem; background-color: var(--dark--grayish--blue); -webkit-border-radius: 30px; -moz-border-radius: 30px; -ms-border-radius: 30px; -o-border-radius: 30px;
 }
 
 #title {
@@ -43,10 +43,6 @@ font-weight: var(--font--weight);
     /* background-color: var(--light--cyan); */
     width: 80%;
     margin: 4rem 0;
-}
-#diceContainer{
-
-
 }
 #diceBtn{ 
     position: relative;
