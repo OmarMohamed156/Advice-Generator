@@ -4,7 +4,7 @@ function getRandomAdvice() {
     .then((data) => {
       console.log(data);
       document.getElementById("title").innerHTML = `ADVICE # ${data?.slip?.id}`;
-      document.getElementById("advice").innerHTML = `“${data?.slip?.advice}”`;
+      document.getElementById("advice").innerHTML = `“ ${data?.slip?.advice} ”`;
     })
     .catch((err) => {
       console.log(err);
