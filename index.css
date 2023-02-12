@@ -39,8 +39,8 @@ font-size: var(--quote--size);
 text-align: center;
 font-weight: var(--font--weight);
 }
-hr{
-    background-color: var(--light--cyan);
+#divider{
+    /* background-color: var(--light--cyan); */
     width: 80%;
     margin: 4rem 0;
 }
