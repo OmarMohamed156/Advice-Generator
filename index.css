@@ -63,7 +63,7 @@ font-weight: var(--font--weight);
 }
 @media screen and (max-width: 768px) {
     #card {
-        width: 80vw;
+        width: 75vw;
     }
     #divider{
         /* background-color: var(--light--cyan); */
