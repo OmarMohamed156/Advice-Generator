@@ -1,6 +1,6 @@
 # Frontend Mentor - Advice generator app
 
-###[live site](https://advice-generator-five-lilac.vercel.app/)
+[live site](https://advice-generator-five-lilac.vercel.app/)
 
 ## Welcome! 👋
 
