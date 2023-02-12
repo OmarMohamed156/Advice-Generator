@@ -61,3 +61,21 @@ font-weight: var(--font--weight);
     box-shadow: 0px 0px 20px var(--neon--green);
     transform: scale(1.1);
 }
+@media screen and (max-width: 768px) {
+    #card {
+        width: 80vw;
+    }
+    #divider{
+        /* background-color: var(--light--cyan); */
+        width: 80%;
+        margin: 2rem 0;
+    }
+    #advice {
+        font-size: var(--quote--size);
+    }
+    #diceBtn {
+        top: -30px;
+    padding: 3%;
+
+    }
+}
