@@ -1,6 +1,6 @@
 # Frontend Mentor - Advice generator app
 
-![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
+###[live site](https://advice-generator-five-lilac.vercel.app/)
 
 ## Welcome! 👋
 
